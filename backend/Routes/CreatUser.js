@@ -5,7 +5,7 @@ const { body, validationResult } = require("express-validator");
 
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
-const jwtSecret = "MynameisEndtoEndYouTubeChannel$#";
+const jwtSecret = "asjsaajsgjsgjasjuqwqsd";
 
 router.post(
   "/creatuser",
